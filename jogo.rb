@@ -1,4 +1,4 @@
-jogo.rb
+jogo_de_adivação
 
 novo_jogo = "s"
 
